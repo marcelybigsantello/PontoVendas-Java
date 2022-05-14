@@ -1,5 +1,5 @@
 # PontoVendas-Java
-Projeto desenvolvido de ponto de vendas de alimentos durante o curso de Java com MySQL
+Projeto desenvolvido de ponto de vendas de alimentos.
 
 Projeto desktop Java desenvolvido como um sistema de supermercado online, onde os usuários podem escolher seus produtos, a quantidade e realizar suas compras no caixa. 
 
